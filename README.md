@@ -1,1 +1,1 @@
-Second project on Html % css
+Second project on Html & css
